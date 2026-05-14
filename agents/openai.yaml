@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiktok视频自动发布"
+  short_description: "Publish Feishu videos to TikTok and sync status."
+  default_prompt: "Use this skill to publish new videos from a Feishu Base view to TikTok and update publish status fields in the same table."
